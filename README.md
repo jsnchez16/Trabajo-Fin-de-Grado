@@ -1,2 +1,3 @@
-# Trabajo-Fin-de-Grado
-Android app and ROS2 server for the iRobot Create 3 in order to carry out movements through voice commands dictated by the user
+# Trabajo de Fin de Grado de Ingeniería Informática
+App para la navegación basada en comandos de voz del robot iRobot Create 3
+App for the navigation based on voice commands on the robot iRobot Create 3
