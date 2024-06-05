@@ -1,5 +1,13 @@
 # Trabajo de Fin de Grado de Ingeniería Informática
+ES:
+
 App para la navegación basada en comandos de voz del robot iRobot Create 3.
+
+El objetivo de este Trabajo de Fin de Grado es desarrollar una aplicación Android para que el robot iRobot Create 3 realice movimientos por medio de comandos de voz dictados por el usuario. A través de una aplicación Android se recogen las órdenes de voz dictadas por el usuario, siguiendo un conjunto de comandos preestablecido, y se envían a un servidor de ROS2 en un ordenador para que sean ejecutadas posteriormente por el robot. Tanto el móvil como el robot sirven como interfaz HMI (Human-Machine Interface) de forma que el usuario recibe una realimentación por parte del robot y de la aplicación móvil para saber si la orden dada por el usuario se ha recibido y entendido correctamente o de si se ha producido algún error.
+
+Este repo contiene toda la información necesaria para implementar la app móvil y el servidor de ROS2 para navegar a través de comandos de voz. Aunque también necesitarías un iRobot Create 3! 😆
+
+EN:
 
 App for the navigation based on voice commands on the robot iRobot Create 3.
 
